@@ -1,4 +1,4 @@
-# PYTHONStudy
+# PythonStudy
 :file_folder: simple<br>
 python 공부를 시작하면서, 기본이라 생각되는 부분을 정리했습니다.:sparkles:<br>
 <br>
